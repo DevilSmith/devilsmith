@@ -5,7 +5,7 @@ My name is Stanislav Briver and I am a software developer with a background in w
 ## Skills:
 
 - Programming languages used in the work: C#, Python, JavaScript, TypeScript
-- Frameworks: ASP.NET, ASP.NET Core MVC, Entity Framework
+- Frameworks and libraries: ASP.NET, ASP.NET Core MVC, Entity Framework, SignalR, jQuery
 - Databases: PostgreSQL
 - Markup: Bootstrap
 - Version Control: Git
