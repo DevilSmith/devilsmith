@@ -1,6 +1,6 @@
 # About Me
 
-My name is Stanislav Briver and I am a passionate software developer with a background in web development.
+My name is Stanislav Briver and I am a software developer with a background in web development.
 
 ## Skills:
 
