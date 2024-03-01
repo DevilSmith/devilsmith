@@ -1,16 +1,36 @@
-### Hi there 👋
+# About Me
 
-<!--
-**DevilSmith/devilsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Stanislav Briver and I am a passionate software developer with a background in web development.
 
-Here are some ideas to get you started:
+## Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming languages used in the work: C#, Python, JavaScript, TypeScript
+- Frameworks: ASP.NET, ASP.NET Core MVC, Entity Framework
+- Databases: PostgreSQL
+- Markup: Bootstrap
+- Version Control: Git
+
+## Projects:
+
+1. Self-hosted solution (stack: .NET 6) for the maintenance of industrial automation systems based on the Modbus RTU protocol and the customer's proprietary protocol (idiBus)
+2. Web service for the customer in the field of food industry - https://cookly.online (OLIMP LLC)
+
+## Experience:
+
+- Company: OLIMP LLC - Position: Software Engineer (February 2022 - Present)
+
+Writing software for microcontrollers of the STM32 and AVR families: system software for programmers of integrated circuits (STM32; state machines; ADC; FSMC; Bootloader; USB HID, UART, i2c interfaces; in-circuit debugging via gdb, STLink); software development for industrial automation devices (ATmega328PB, 2560, 128; EEPROM, work with SD drives; UART; Modbus RTU; RS-485)
+
+Fullstack development of a self-hosted solution (stack: .NET 6) for the maintenance of industrial automation systems based on the Modbus RTU protocol and the customer's proprietary protocol, Lua integration into .NET.
+
+Fullstack development of a web service for the customer in the field of food industry (stack: backend - .NET 7, ASP.NET Core MVC, Entity Framework, SignalR, PostgreSQL, Docker, Compose, Nginx, MinIO, authorization and authentication on refresh pairs, access tokens, OpenAPI, Swashbuckle, Python to automate the deployment and updating of services (API and website).
+
+Support for a corporate web server on Debian 10 on the mdadm software raid, with Mattermost - chat services; Gitea - version control systems; Prometheus-Grafana-Node Exporter bundle; Mosquitto MQTT - broker for collecting metrics from customer sensors; Nextcloud - cloud storage; Portainer - container management web interface
+
+## Education:
+
+- Degree: Bachelor's Degree in Electronic Engineering - National Research University of Electronic Technology, Moscow (2023)
+
+## Contact Me:
+
+- stasbriver@yandex.ru
