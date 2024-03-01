@@ -19,8 +19,12 @@ My name is Stanislav Briver and I am a software developer with a background in w
 ## Experience:
 
 - OLIMP LLC - Software Engineer (February 2022 - Present)
+  
+#### Embedded-software projects
 
 Writing software on C/C++ for microcontrollers of the STM32 and AVR families: system software for programmers of integrated circuits (STM32; state machines; ADC; FSMC; Bootloader; USB HID, UART, i2c interfaces; in-circuit debugging via gdb, STLink); software development for industrial automation devices (ATmega328PB, 2560, 128; EEPROM, work with SD drives; UART; Modbus RTU; RS-485)
+
+#### Web-services
 
 Fullstack development of a self-hosted solution (stack: .NET 6) for the maintenance of industrial automation systems based on the Modbus RTU protocol and the customer's proprietary protocol, Lua integration into .NET.
 
