@@ -26,7 +26,7 @@ Writing software on C/C++ for microcontrollers of the STM32 and AVR families: sy
 
 #### Web-services
 
-Fullstack development of a self-hosted solution (stack: .NET 6) for the maintenance of industrial automation systems based on the Modbus RTU protocol and the customer's proprietary protocol, Lua integration into .NET.
+Fullstack development of a self-hosted solution (stack: .NET 6) for the maintenance of industrial automation systems based on the Modbus RTU protocol and the customer's proprietary protocol, Lua integration into .NET (NLua).
 
 Fullstack development of a web service for the customer in the field of food industry (stack: backend - .NET 7, ASP.NET Core MVC, Entity Framework, SignalR, PostgreSQL, Docker, Compose, Nginx, MinIO, authorization and authentication on refresh pairs, access tokens, OpenAPI, Swashbuckle, Python to automate the deployment and updating of services (API and website).
 
