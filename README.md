@@ -12,7 +12,7 @@ My name is Stanislav Briver and I am a passionate software developer with a back
 
 ## Projects:
 
-1. Self-hosted solution (stack: .NET 6) for the maintenance of industrial automation systems based on the Modbus RTU protocol and the customer's proprietary protocol (idiBus)
+1. Self-hosted solution (stack: .NET 6) for the maintenance of industrial automation systems based on the Modbus RTU protocol and the customer's proprietary protocol "idiBus" (OLIMP LLC)
 2. Web service for the customer in the field of food industry - https://cookly.online (OLIMP LLC)
 
 ## Experience:
