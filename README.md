@@ -35,7 +35,7 @@ Support for a corporate web server on Debian 10 on the mdadm software raid, with
 
 ## Education:
 
-- Degree: Bachelor's Degree in Electronic Engineering - National Research University of Electronic Technology, Moscow (2023)
+- Bachelor's Degree in Electronic Engineering - National Research University of Electronic Technology, Moscow (2023)
 
 ## Contact Me:
 
