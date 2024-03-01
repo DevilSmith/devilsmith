@@ -17,7 +17,7 @@ My name is Stanislav Briver and I am a passionate software developer with a back
 
 ## Experience:
 
-- Company: OLIMP LLC - Position: Software Engineer (February 2022 - Present)
+- OLIMP LLC - Software Engineer (February 2022 - Present)
 
 Writing software for microcontrollers of the STM32 and AVR families: system software for programmers of integrated circuits (STM32; state machines; ADC; FSMC; Bootloader; USB HID, UART, i2c interfaces; in-circuit debugging via gdb, STLink); software development for industrial automation devices (ATmega328PB, 2560, 128; EEPROM, work with SD drives; UART; Modbus RTU; RS-485)
 
