@@ -9,6 +9,7 @@ My name is Stanislav Briver and I am a software developer with a background in w
 - Databases: PostgreSQL
 - Markup: Bootstrap
 - Version Control: Git
+- Infrastructure: Docker, Docker Compose, Nginx, Linux
 
 ## Projects:
 
