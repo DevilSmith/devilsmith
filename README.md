@@ -27,7 +27,7 @@ My name is Stanislav Briver and I am a software developer with a background in w
 
 #### Web-services
 
-1. Fullstack development of a self-hosted solution (stack: .NET 6) for the maintenance of industrial automation systems based on the Modbus RTU protocol and the customer's proprietary protocol, Lua integration into service (NLua).
+1. Fullstack development of a self-hosted solution (stack: .NET 6) for the maintenance of industrial automation systems based on the Modbus RTU protocol and the customer's proprietary protocol, Lua integration into service (NLua). Link - https://github.com/DevilSmith/portfolio-assets/blob/master/Projects/cookly-service/images.md
 
 2. Fullstack development of a web service for the customer in the field of food industry (stack: backend - .NET 7, ASP.NET Core MVC, Entity Framework, SignalR, PostgreSQL, Docker, Compose, Nginx, MinIO, authorization and authentication on refresh pairs, access tokens, OpenAPI, Swashbuckle, Python to automate the deployment and updating of services (API and website).
 
