@@ -11,7 +11,7 @@ My name is Stanislav Briver and I am a software developer with a background in w
 - Infrastructure: Docker, Docker Compose, Nginx, Linux
 
 ## Experience:
-- ELVEES (АО НПЦ "ЭЛВИС") - Software Engineer (April 2024 - Present)
+### ELVEES (АО НПЦ "ЭЛВИС") - Software Engineer (April 2024 - Present)
 
 #### Distributed Access Control System (ACS) Development:
 
@@ -21,7 +21,7 @@ My name is Stanislav Briver and I am a software developer with a background in w
 4. Developed backend services for managing users, access rules, schedules, and hardware configuration
 5. Contributed to system architecture with focus on reliability, synchronization, and multi-site deployment
   
-- OLIMP LLC - Software Engineer (February 2022 - April 2024)
+### OLIMP LLC - Software Engineer (February 2022 - April 2024)
   
 #### Embedded-software projects
 
