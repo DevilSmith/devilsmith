@@ -4,10 +4,9 @@ My name is Stanislav Briver and I am a software developer with a background in w
 
 ## Skills:
 
-- Programming languages used in the work: C#, Python, JavaScript, TypeScript
+- Programming languages used in the work: C#, C/C++, Python, JavaScript, TypeScript
 - Frameworks and libraries: ASP.NET, ASP.NET Core MVC, Entity Framework, SignalR, jQuery
-- Databases: PostgreSQL
-- Markup: Bootstrap
+- Databases: PostgreSQL, MS SQL
 - Version Control: Git
 - Infrastructure: Docker, Docker Compose, Nginx, Linux
 
@@ -16,11 +15,11 @@ My name is Stanislav Briver and I am a software developer with a background in w
 
 #### Distributed Access Control System (ACS) Development:
 
-- Integrated access controllers over TCP/IP and RS-485 protocols
-- Implemented support for RFID readers and biometric devices (e.g., fingerprint scanners)
-- Designed and maintained the database schema for users, devices, and access policies
-- Developed backend services for managing users, access rules, schedules, and hardware configuration
-- Contributed to system architecture with focus on reliability, synchronization, and multi-site deployment
+1. Integrated access controllers over TCP/IP and RS-485 protocols
+2. Implemented support for RFID readers and biometric devices (e.g., fingerprint scanners)
+3. Designed and maintained the database schema for users, devices, and access policies
+4. Developed backend services for managing users, access rules, schedules, and hardware configuration
+5. Contributed to system architecture with focus on reliability, synchronization, and multi-site deployment
   
 - OLIMP LLC - Software Engineer (February 2022 - April 2024)
   
